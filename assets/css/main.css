@@ -3325,9 +3325,13 @@ body.is-preload #header.alt .logo {
 
 @media screen and (max-width: 736px) {
 
-    #nav {
-        display: none;
-    }
+    /*#nav {*/
+    /*    display: none;*/
+    /*}*/
+
+#nav {
+    font-size: x-small;
+}
 
     #nav + #main {
         padding-top: 0;
