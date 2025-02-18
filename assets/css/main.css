@@ -3176,7 +3176,7 @@ table.alt tbody tr td {
   padding: 5em 5em 1em 5em;
   text-align: center;
   position: relative;
-  background: url(../../images/slider/hero.jpg) center  no-repeat;min-height: 75vh; background-size: cover;
+  background: url(../../images/slider/hero.jpg) center  no-repeat;min-height: 50vh; background-size: cover;
   /* border-radius: 0.25em; */
   margin-bottom: 0px;
 }
